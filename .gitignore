@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 敏感信息
+.env
+*.key
+*.pem
+
+# 本地数据
+user_data.json
+
+# 大模型文件
+*.gguf

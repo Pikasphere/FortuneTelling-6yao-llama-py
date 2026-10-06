@@ -57,8 +57,8 @@ FortuneTelling/
 ### 1. 克隆仓库
 
 ```bash
-git clone <your-repo-url>
-cd FortuneTelling
+git clone https://github.com/Pikasphere/FortuneTelling-6yao-llama-py.git
+cd FortuneTelling-6yao-llama-py
 ```
 
 ### 2. 创建虚拟环境

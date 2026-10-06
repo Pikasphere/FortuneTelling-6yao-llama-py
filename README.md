@@ -79,13 +79,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-`requirements.txt` 内容：
-
-```txt
-flet>=0.24.0
-llama-cpp-python>=0.2.0
-```
-
 > 如果安装 `llama-cpp-python` 需要编译，请根据系统安装 C++ 编译工具链。  
 > 有 NVIDIA 显卡可安装 CUDA 版本以加速推理。
 

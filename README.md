@@ -129,6 +129,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+#当然，你也可以使用run.bat一键运行
 
 ---
 
